@@ -4,3 +4,5 @@ build/cmake*
 build/ember-plus_linux_libember-slim_sample
 build/libember_slim-*
 
+doc
+
